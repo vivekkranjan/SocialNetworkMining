@@ -1,7 +1,4 @@
 require(tcltk2)
-require(ggplot2)
-require(ggplot)
-
 tt <- tktoplevel()
 tkwm.title(tt,"Social Network Mining")
 rb1 <- tkradiobutton(tt)
